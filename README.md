@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mani73158
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning Backend Development
+- 📫 Reach me at mani73158@gmail.com
